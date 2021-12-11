@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">IQapp101</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">About Us</string>
+    <string name="menu_slideshow">Contact Us</string>
+
+    <string name="textView6">
+        <a href="https://innovatorsquestvit.home.blog/2020/06/23/5g-wireless-technology/">5G WIRELESS TECHNOLOGY</a>
+    </string>
+
+    <string name="textView7">
+        <a href="https://innovatorsquestvit.home.blog/2020/06/02/internet-in-space-bringing-wi-fi-to-the-earth-orbit-the-moon-and-mars/">Internet in space : Bringing Wi-Fi to the Earth orbit, the Moon and Mars</a>
+    </string>
+
+    <string name="textView8">
+        <a href="https://innovatorsquestvit.home.blog/2020/05/26/moisture-sensor/">Moisture Sensor</a>
+    </string>
+
+    <string name="textView9">
+        <a href="https://innovatorsquestvit.home.blog/2020/05/19/44/">Data Science: The Future</a>
+    </string>
+
+    <string name="textView10">
+        <a href="https://innovatorsquestvit.home.blog/2019/08/27/the-plastic-solution/">The Plastic Solution</a>
+    </string>
+
+    <string name="textView11">
+        <a href="https://innovatorsquestvit.home.blog/2019/08/13/new-era-of-opto-technology-optical-computers/">NEW ERA OF OPTO-TECHNOLOGY: OPTICAL COMPUTERS</a>
+    </string>
+
+
+</resources>

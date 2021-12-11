@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/layout"
+    android:layout_height="match_parent"
+    android:background="@drawable/side_nav_bar">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <TextView
+                android:id="@+id/textView5"
+                android:layout_width="match_parent"
+                android:layout_height="125dp"
+                android:gravity="center"
+                android:text="EVENTS"
+                android:background="@color/black"
+                android:textColor="#B10C0C"
+
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="249dp"
+                android:layout_height="190dp"
+                android:layout_marginTop="20dp"
+                android:background="#c1c1c1"
+                android:backgroundTint="#A80101"
+                android:src="@drawable/_06249832_3273354192704502_7468117136075120886_n" />
+
+            <TextView
+                android:id="@+id/textView6"
+                android:layout_width="match_parent"
+                android:layout_height="83dp"
+                android:gravity="center"
+                android:text="Entrepreneurship and career opportunities Post covid"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+
+            <ImageView
+                android:layout_width="195dp"
+                android:layout_height="190dp"
+                android:background="#c1c1c1"
+                android:backgroundTint="#A80101"
+                android:src="@drawable/e1" />
+
+            <TextView
+                android:id="@+id/textView7"
+                android:layout_width="match_parent"
+                android:layout_height="75dp"
+                android:gravity="center"
+                android:text="Revolutionizing Healthcare with AI"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <ImageView
+                android:layout_width="195dp"
+                android:layout_height="190dp"
+                android:background="#c1c1c1"
+                android:backgroundTint="#A80101"
+                android:src="@drawable/e2" />
+
+            <TextView
+                android:id="@+id/textView8"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:gravity="center"
+                android:text="Competitive Programming"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <ImageView
+                android:layout_width="196dp"
+                android:layout_height="190dp"
+                android:background="#c1c1c1"
+                android:backgroundTint="#A80101"
+                android:src="@drawable/e3" />
+
+            <TextView
+                android:id="@+id/textView9"
+                android:layout_width="match_parent"
+                android:layout_height="77dp"
+                android:gravity="center"
+                android:text="Demystifying React Native"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+            <ImageView
+                android:layout_width="195dp"
+                android:layout_height="190dp"
+                android:background="#c1c1c1"
+                android:backgroundTint="#A80101"
+                android:src="@drawable/e4" />
+
+            <TextView
+                android:id="@+id/textView10"
+                android:layout_width="match_parent"
+                android:layout_height="77dp"
+                android:gravity="center"
+                android:text="Crack The CODE"
+                android:textColor="@color/black"
+                android:textSize="24sp" />
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

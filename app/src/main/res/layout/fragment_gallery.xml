@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:id="@+id/layout"
+    android:layout_height="match_parent"
+    android:background="@drawable/side_nav_bar">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:gravity="center">
+
+
+            <TextView
+                android:id="@+id/textView14"
+                android:layout_width="356dp"
+                android:layout_height="78dp"
+                android:layout_marginTop="26dp"
+                android:gravity="center"
+                android:text="OUR MISSION"
+                android:textColor="@color/black"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView12"
+
+                android:layout_width="356dp"
+                android:layout_height="130dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="center"
+                android:text="The key idea is to provide an environment where people can interact, present their ideas, discuss it and modify it for application in our day to day life. A platform for the youth to come up with new innovations &amp; ideas based on blooming technology."
+                android:textColor="@color/black"
+                android:textSize="15dp" />
+
+            <TextView
+                android:id="@+id/textView16"
+                android:layout_width="351dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="20dp"
+                android:gravity="center"
+                android:text="OUR PLAN"
+                android:textColor="@color/black"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView13"
+                android:layout_width="357dp"
+                android:layout_height="119dp"
+                android:layout_marginBottom="20dp"
+                android:gravity="center"
+                android:text="The club envisions a society with better knowledge, awareness, and access to technologies around the globe. We believe in achieving solutions of real world problems through using technologies which are either developing, new or old in an innovative way."
+                android:textColor="@color/black"
+                android:textSize="15dp" />
+
+
+            <TextView
+                android:id="@+id/textView15"
+                android:layout_width="351dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="16dp"
+                android:gravity="center"
+                android:text="OUR VISION"
+                android:textColor="@color/black"
+                android:textSize="36sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="362dp"
+                android:layout_height="173dp"
+                android:layout_marginBottom="28dp"
+                android:text="We believe in providing a platform for the youth to come up with new innovations &amp; ideas based on blooming technology, by conducting many National Level Hackathon, Workshops and fun events like Minute-2-Win-it. Our membership drive is free and accessible to journals, internships and many more enthusiastic events."
+                android:textColor="@color/black"
+                android:textSize="15dp"
+                android:gravity="center"/>
+
+
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>
